@@ -31,11 +31,11 @@ public class Main {
 
 
 
-       /* System.out.println("List before swapping: " + students );
+        System.out.println("List before swapping: " + students );
 
         Collections.swap(students, 0 ,1);
 
-        System.out.println("List after swapping: " + students);*/
+        System.out.println("List after swapping: " + students); // Utan att implementera Student class
 
 
 
